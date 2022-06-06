@@ -1,4 +1,0 @@
-name: YunoeRedisLib
-version: '${project.version}'
-main: me.yunoe.yunoeredislib.YunoeRedisLib
-authors: [ QQ1093422166 ]
